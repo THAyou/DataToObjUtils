@@ -10,7 +10,7 @@ namespace DataToObjUtils
     /// DataTable转换实体类工具
     /// 作者:Tyou 2019/05/11 11:41:00
     /// </summary>
-    public static class DataToObjUtils
+    public static class DataToObj
     {
         /// <summary>
         /// 将DataTable转换为List集合
