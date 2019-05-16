@@ -4,7 +4,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Reflection;
 
-namespace BT.DCManage.Model.Model_Dto
+namespace DataToObjUtils
 {
     /// <summary>
     /// DataTable转换实体类工具
